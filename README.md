@@ -108,6 +108,6 @@ Curl commands to download the appropriate yaml files
 - curl https://github.com/SergioSandoval17/ELK-Stack/blob/main/ansible/elkplaybook.yml.txt
 
 Commands to run Playbooks
-ansible-playbook playbook.yml
-ansible-playbook Filebeat-playbook.yml
-ansible-playbook elkplaybook.yml
+- ansible-playbook playbook.yml
+- ansible-playbook Filebeat-playbook.yml
+- ansible-playbook elkplaybook.yml
